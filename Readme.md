@@ -2,7 +2,7 @@
 
 <div align="center">
 
-### 👋 Hey, I'm Maako — I teach machines to think and networks to defend themselves
+### 👋 Hey, I'm Maako, I teach machines to think and networks to defend themselves
 
 **AI Engineer | PhD Researcher | Building the Future of Intelligent Security**
 
@@ -22,7 +22,7 @@ I'm knee-deep in my PhD, exploring how **Large Language Models can revolutionize
 
 **Current Mission:**
 - 🔬 Researching LLM architectures for real-time threat detection and analysis
-- 🤖 Developing **Nylah** — my JARVIS-inspired AI assistant (she's getting scary good)
+- 🤖 Developing **Nylah**, my JARVIS-inspired AI assistant (she's getting scary good)
 - 🛡️ Merging cybersecurity fundamentals with bleeding-edge AI to build systems that actually work in production
 - 📚 Learning offensive security techniques to think like attackers (know thy enemy, right?)
 
@@ -206,7 +206,7 @@ $ automation=("n8n" "Process Orchestration" "Integration Pipelines")
 
 ## 🚀 Projects That Keep Me Up at Night (In a Good Way)
 
-### 🤖 **Nylah** — My AI Companion `[In Active Development]`
+### 🤖 **Nylah** - My AI Companion `[In Active Development]`
 
 <div align="center">
 
@@ -357,7 +357,7 @@ French to Fongbe translation tool. Preserving language and culture through tech.
 ║                                                              ║
 ║  💚  Total Contributions:  215+  (and counting)              ║
 ║  🔥  Current Streak:       Building daily                    ║
-║  🌟  Stars Earned:         9                                 ║
+║  🌟  Stars Earned:         42                                ║
 ║  🚀  Projects:             Public + Private = Innovation     ║
 ║                                                              ║
 ╚══════════════════════════════════════════════════════════════╝
