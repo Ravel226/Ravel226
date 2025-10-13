@@ -52,7 +52,7 @@ Why? Because the best defense isn't just knowing the rules—it's understanding 
 ```python
 primary = "Python 🐍"
 daily_driver = True
-proficiency = "Expert"
+proficiency = "Specialist"
 ```
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -84,7 +84,7 @@ frameworks = [
 **LLMs & Models**
 ```javascript
 const models = {
-  gpt4: "✓",
+  gpt: "✓",
   claude: "✓", 
   llama: "✓",
   mistral: "✓",
@@ -530,15 +530,6 @@ print(stack.get_superpower())
 ---
 
 <div align="center">
-
-```ascii
-     ___    ___       ___   __   __   ___  __  ___  __  ___  ___  __   __  
-    / _ |  |_ _|     ( _ ) / _` / _` / _ \/ _`|_ _|/ _`/ __|/ __|/ _` / _` 
-   |  _|   | |      / _ \|  _ |  _ |  __/  _|| || (_|  _ \\__ \  __/  _|| |
-   |_|    |___|    |_| \_\_| |_| |_|\___|\__|___\__,_|\___/___/\___|\__|\|
-                                                                           
-              Security  ×  Intelligence  ×  Innovation
-```
 
 ![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
 
