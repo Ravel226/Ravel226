@@ -526,11 +526,3 @@ print(stack.get_superpower())
 **⚡ "In a world of pattern matchers, be the one who teaches machines to reason" ⚡**
 
 </div>
-
----
-
-<div align="center">
-
-![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
-
-</div>
