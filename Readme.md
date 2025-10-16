@@ -478,35 +478,6 @@ const contact = {
 
 <div align="center">
 
-### 💼 Tech Stack Summary
-
-```python
-class MaakoTechStack:
-    def __init__(self):
-        self.ai_ml = ["PyTorch", "TensorFlow", "HuggingFace", "LangChain"]
-        self.languages = ["Python", "JavaScript", "TypeScript", "PHP", "Kotlin", "Java"]
-        self.backend = ["FastAPI", "Django", "Laravel", "Node.js"]
-        self.cloud = ["AWS", "Docker", "Serverless"]
-        self.security = ["Network Analysis", "Penetration Testing", "IDS/IPS"]
-        self.current_focus = "LLMs for Network Security"
-        
-    def get_superpower(self):
-        return "Building AI that actually understands security threats"
-    
-    def coffee_level(self):
-        return "∞"  # Always maximum
-
-stack = MaakoTechStack()
-print(stack.get_superpower())
-# Output: "Building AI that actually understands security threats"
-```
-
-</div>
-
----
-
-<div align="center">
-
 ### 📌 Quick Links
 
 [🔬 Research Interest: LLMs × Security](#) • [🤖 Nylah Project (Soon)](#) • [📧 Collaborate With Me](#-lets-connect)
