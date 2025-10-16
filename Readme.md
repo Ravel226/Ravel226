@@ -454,11 +454,9 @@ const contact = {
 
 ### 🎵 Current Status
 
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=31l5qdk4cb3lbkvsm2fqddl3gxhu&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=false&bar_color=058a8a&bar_color_cover=true" width="400px"/>
-
 **Currently:** Probably debugging something or teaching Nylah a new trick 🤖
 
-**Fun fact:** I once debugged a network security issue that turned out to be a cat sitting on the router 🐱
+**Fun fact:** I once debugged a network security issue that turned out to be the router wasn't even connected 💀
 
 **Mood:** Caffeinated and ready to build ☕💻
 
