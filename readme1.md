@@ -8,7 +8,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-058a8a?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/maako-wourougou)
 [![Email](https://img.shields.io/badge/Academic-ff6b6b?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m.wourougou@ueuromed.org)
-[![Email](https://img.shields.io/badge/Personal-ff6b6b?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ravelle@wourougou.com)
+[![Email](https://img.shields.io/badge/Personal-ff6b6b?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ravellewourougou@gmail.com)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Ravel226&color=058a8a&style=for-the-badge)
 
@@ -285,7 +285,7 @@ French to Fongbe translation system. Contributing to language preservation throu
 <img src="https://github-readme-stats.vercel.app/api?username=Ravel226&show_icons=true&theme=transparent&hide_border=true&bg_color=0d1117&title_color=058a8a&icon_color=ff6b6b&text_color=c9d1d9&ring_color=058a8a&fire_color=ff6b6b" width="100%"/>
 </td>
 <td width="50%" align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ravel226&theme=transparent&hide_border=true&background=0d1117&stroke=058a8a&ring=ff6b6b&fire=ff6b6b&currStreakLabel=058a8a&sideLabels=c9d1d9&dates=8b949e" width="100%"/>
+<img src="https://streak-stats.demolab.com/?user=Ravel226&theme=transparent&hide_border=true&background=0d1117&stroke=058a8a&ring=ff6b6b&fire=ff6b6b&currStreakLabel=058a8a&sideLabels=c9d1d9&dates=8b949e" width="100%"/>
 </td>
 </tr>
 </table>
@@ -360,14 +360,16 @@ Building something interesting? Working on AI or security challenges? Open to co
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-058a8a?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://linkedin.com/in/maako-wourougou)
 [![Academic Email](https://img.shields.io/badge/Academic-ff6b6b?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:m.wourougou@ueuromed.org)
-[![Personal Email](https://img.shields.io/badge/Personal-ff6b6b?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:ravelle@wourougou.com)
+[![Personal Email](https://img.shields.io/badge/Personal-ff6b6b?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:ravellewourougou@gmail.com)
+[![Phone](https://img.shields.io/badge/+212_645469843-058a8a?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0d1117)](tel:+212645469843)
 
 <br>
 
 | Contact | Address |
 |:--------|:--------|
 | Academic | m.wourougou@ueuromed.org |
-| Personal | ravelle@wourougou.com |
+| Personal | ravellewourougou@gmail.com |
+| Phone | +212 645 469 843 |
 | LinkedIn | [in/maako-wourougou](https://linkedin.com/in/maako-wourougou) |
 | Response Time | Typically within 24 hours |
 
