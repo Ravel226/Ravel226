@@ -16,7 +16,7 @@
 
 ---
 
-## What I'm Building
+## What I'm Building :
 
 My PhD research explores how **Large Language Models can transform Network Intrusion Detection**. The goal: AI security systems that genuinely *understand* threats rather than just matching patterns.
 
