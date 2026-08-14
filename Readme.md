@@ -369,7 +369,6 @@ Building something interesting? Working on AI or security challenges? Open to co
 |:--------|:--------|
 | Academic | m.wourougou@ueuromed.org |
 | Personal | ravellewourougou@gmail.com |
-| Phone | +212 645 469 843 |
 | LinkedIn | [in/maako-wourougou](https://linkedin.com/in/maako-wourougou) |
 | Response Time | Typically within 24 hours |
 
