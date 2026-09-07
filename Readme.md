@@ -361,7 +361,6 @@ Building something interesting? Working on AI or security challenges? Open to co
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-058a8a?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://linkedin.com/in/maako-wourougou)
 [![Academic Email](https://img.shields.io/badge/Academic-ff6b6b?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:m.wourougou@ueuromed.org)
 [![Personal Email](https://img.shields.io/badge/Personal-ff6b6b?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:ravellewourougou@gmail.com)
-[![Phone](https://img.shields.io/badge/+212_645469843-058a8a?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0d1117)](tel:+212645469843)
 
 <br>
 
